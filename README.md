@@ -21,8 +21,12 @@
 - **城市用户是低频高客单群体**：购买频率最低（7.00次），
   但客单价最高（1176 元），高消费用户占比 41.86%。
 - **郊区用户介于两者之间**：客单价 943 元，高消费占比 30.37%。
+- ![](E:\dataanalysis\visualizations\top_20_users_by_spending.png)
+- ![](E:\dataanalysis\visualizations\spending_tier_by_region.png)
+- ![](E:\dataanalysis\visualizations\avg_order_value_and_frequency_by_region.png)
 
 ## 策略建议
+
 - 对农村用户：通过凑单、满减、组合推荐提升客单价
 - 对城市用户：通过复购召回、会员权益提升购买频率
 - 对郊区用户：参考城市策略，重点提升高消费用户占比
